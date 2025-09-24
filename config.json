@@ -16,12 +16,12 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
-    "PREFIX": "/",
+    "BOTNAME": "𝐒𝐮𝐧𝐝𝐨𝐫𝐢 𝐀𝐅𝐀 💃🌷",
+    "PREFIX": "!",
     "ADMINBOT": [
-        "100000478146113",
-        "61576520552554",
-        "61550035211214"
+        "100010956458694",
+        "",
+        ""
     ],
     "NDH": [
         "100000478146113"
@@ -235,5 +235,10 @@
     "helpall": {
         "autoUnsend": true,
         "delayUnsend": 20
+    }"waifu": {
+    "enable": true,
+    "APIKEY": "your_waifu_api_key_here",
+    "cooldownTime": 1200000,
+    "maxRequests": 5
     }
 }
